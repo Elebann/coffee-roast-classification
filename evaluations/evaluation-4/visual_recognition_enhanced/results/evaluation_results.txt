@@ -1,0 +1,29 @@
+=== Coffee Roast Classification Model Evaluation ===
+
+Loss: 0.0971
+Accuracy: 0.9750
+
+=== Per-Class Metrics ===
+Dark:
+  Precision: 0.9510
+  Recall: 0.9700
+  F1-Score: 0.9604
+
+Green:
+  Precision: 1.0000
+  Recall: 1.0000
+  F1-Score: 1.0000
+
+Light:
+  Precision: 0.9900
+  Recall: 0.9900
+  F1-Score: 0.9900
+
+Medium:
+  Precision: 0.9592
+  Recall: 0.9400
+  F1-Score: 0.9495
+
+Average Precision: 0.9750
+Average Recall: 0.9750
+Average F1-Score: 0.9750

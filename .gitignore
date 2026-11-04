@@ -1,0 +1,24 @@
+# Datasets (descargar desde Kaggle, ver README)
+dataset/
+**/dataset/
+
+# Comprimidos
+*.zip
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.pytest_cache/
+
+# Entornos / IDE
+.idea/
+.vscode/
+*.iml
+
+# Sistemas operativos
+Thumbs.db
+desktop.ini
+.DS_Store
